@@ -1,6 +1,6 @@
 # React Admin panel
 
-Live site - react-custom-admin-panel.netlify.app
+Live site - https://react-custom-admin-panel.netlify.app/
 
 packages used: Chart.js, Mui, react-router-dom-v6
 
